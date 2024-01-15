@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string-array name="options">
+            <item>Available | Hey Let Us Connect</item>
+            <item>Away | Stay Discrete And Watch</item>
+            <item>Busy | Do Not Disturb</item>
+            <item>SOS | Emergency!</item>
+        </string-array>
+
+</resources>
